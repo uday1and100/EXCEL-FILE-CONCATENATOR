@@ -14,6 +14,7 @@ The concept of the project is to develop a desktop application in python using t
 - [**tkinter**](https://docs.python.org/3/library/tkinter.html) is used for the gui.
 
 ## Algorithm
+The algorithm of the project is simple and straight forward. The excel files are obtained from the user and are converted into **DataFrames** using pandas. The pandas dataframe objects has the method called concat which combines two data frames either row wise or column wise based on the index. 
 
 
 

@@ -21,10 +21,14 @@ The algorithm of the project is simple and straight forward. The excel files are
 ![](https://github.com/uday1and100/concat/blob/main/pd.jpg)
 
 ## .exe file
-pyinstaller is used to convert the code to an executable file. since the code doesnt have external dependencies such as images or other code files , it is easily converted to an executable file.
+pyinstaller is used to convert the code to an executable file. since the code doesnt have external dependencies such as images or other code files , it is easily converted to an executable file. You have to install pyinsta
 
 ## working 
 ![](https://github.com/uday1and100/concat/blob/main/concat.jpg)
+
+The user must select the files in order of concatenation i.e how they want to merge them. After selecting the files , the user must select either row or column and must provide the name of the file and press the combine button. The merged excel file will be made in the location of the application in the name the user provided. 
+
+
 
 
 
